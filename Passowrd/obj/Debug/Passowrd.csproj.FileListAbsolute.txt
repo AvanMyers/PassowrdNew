@@ -1,0 +1,7 @@
+C:\Users\smail\source\repos\Passowrd\Passowrd\bin\Debug\Passowrd.exe.config
+C:\Users\smail\source\repos\Passowrd\Passowrd\bin\Debug\Passowrd.exe
+C:\Users\smail\source\repos\Passowrd\Passowrd\bin\Debug\Passowrd.pdb
+C:\Users\smail\source\repos\Passowrd\Passowrd\obj\Debug\Passowrd.csproj.AssemblyReference.cache
+C:\Users\smail\source\repos\Passowrd\Passowrd\obj\Debug\Passowrd.csproj.CoreCompileInputs.cache
+C:\Users\smail\source\repos\Passowrd\Passowrd\obj\Debug\Passowrd.exe
+C:\Users\smail\source\repos\Passowrd\Passowrd\obj\Debug\Passowrd.pdb
